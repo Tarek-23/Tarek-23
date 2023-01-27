@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Tarek Radwan 👋
 
 <!--
 **Tarek-23/Tarek-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek-23&hide=banana&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarek-23&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
