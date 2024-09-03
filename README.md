@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Tarek's GitHub stats](https://github-readme-stats-private-instance-tarek-23.vercel.app/api?username=Tarek-23&theme=dark&count_private=true&show_icons=true&show=reviews&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek-23&hide=banana&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app](https://github-readme-stats-private-instance-tarek-23.vercel.app/api/top-langs/?username=Tarek-23&hide=banana&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
